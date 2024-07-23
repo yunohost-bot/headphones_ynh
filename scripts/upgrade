@@ -63,7 +63,7 @@ python3 -m venv $install_dir/venv
 #=================================================
 ynh_script_progression --message="Updating a configuration file..."
 
-ynh_replace_string --match_string="^http_root = .*" --replace_string="http_root = $path" --target_file="/etc/$app/headphones.ini"
+ynh_replace_string --match_string="^http_root = .*" --replace_string="http_root = $path" --target_file="$install_dir/headphones.ini"
 
 #=================================================
 # SETUP SYSTEMD

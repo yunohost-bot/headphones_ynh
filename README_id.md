@@ -28,7 +28,7 @@ Headphones is an automated music downloader for NZB and Torrent, written in Pyth
 ## Dokumentasi dan sumber daya
 
 - Dokumentasi pengguna resmi: <https://github.com/rembo10/headphones/wiki/Usage-guide>
-- Repositori kode aplikasi hulu: <https://github.com/rembo10/headphones>
+- Depot kode aplikasi hulu: <https://github.com/rembo10/headphones>
 - Gudang YunoHost: <https://apps.yunohost.org/app/headphones>
 - Laporkan bug: <https://github.com/YunoHost-Apps/headphones_ynh/issues>
 
